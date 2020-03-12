@@ -102,7 +102,7 @@ button {
   padding: 10px; }
 
 body {
-  background-image: url("/dist/images/bg.png");
+  background-image: url("../../images/bg.png");
   color: white;
   font-family: 'Arsenal', sans-serif;
   font-weight: 400; }
